@@ -20,7 +20,7 @@
 - 正在学习：
 [📕《C++ Primer (第5版)》](https://book.douban.com/subject/25708312/)+
 [📺B站：黑马程序员-从0到1入门C++](https://www.bilibili.com/video/BV1et411b73Z)
-- 从0到1入门C++
+- [笔记：从0到1入门C++](https://github.com/xiewenchao1999/NtoC/blob/main/%E4%BB%8E0%E5%88%B01%E5%85%A5%E9%97%A8C%2B%2B/%E7%AC%94%E8%AE%B0.md)
 
 ## 💻New to Computer
 
